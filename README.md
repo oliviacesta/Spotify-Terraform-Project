@@ -30,6 +30,8 @@ data "spotify_search_track" "TheFray" {
     artist = "The Fray"
 }
 
+Finally, after creating the application I rotated the API keys and tokens to ensure my account remained secure.
+
 resource "spotify_playlist" "theFrayBestHits" {
     name = "The Fray Best Hits"
     tracks = slice(data.spotify_search_track.TheFray.tracks[*].id, 0, 10)
