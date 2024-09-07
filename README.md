@@ -9,5 +9,12 @@ Devops project to create spotify playlists and add songs using terraform. Demons
 
 ## End result!
 Take a look at the playlists created in my spotify account thanks to this project:
+
+### Example 1: 
+Using a `spotify_playlist` resource block, created a Study Music Playlist using tack ids from individual songs on spotify ```tracks = ["6fxVffaTuwjgEk5h9QyRjy", "2hKdd3qO7cWr2Jo0Bcs0MA", "3Vr3zh0r7ALn8VLqCiRR10",
+              "2RiBogNRfulkNf7fVbPOrJ", "0FDzzruyVECATHXKHFs9eJ", "7cA3PnUQDlUyBBwpRozQeo",
+              "4U45aEWtQhrm8A5mxPaFZ7", "3vUn7FE3ZaQgJmkhIrIirF", "1fDtoTPDyzkNOfFIRXxsC5",
+              "3ZffCQKLFLUvYM59XKLbVm", "7hVZJGsh5fxFtwaqgJq1nf", "0W4Kpfp1w2xkY3PrV714B7",
+              "2ixsaeFioXJmMgkkbd4uj1", "6vWXl7JGlTTIHJCDCQTPjD", "6me7F0aaZjwDo6RJ5MrfBD"]```
 <img width="879" alt="Screenshot 2024-09-07 at 4 22 42 PM" src="https://github.com/user-attachments/assets/a5912e15-3848-402f-bbbc-a55aade982e5">
 <img width="890" alt="Screenshot 2024-09-07 at 4 23 26 PM" src="https://github.com/user-attachments/assets/9a3c3153-32cb-4daa-b980-de9b5f222e97">
