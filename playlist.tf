@@ -11,6 +11,6 @@ data "spotify_search_track" "TheFray" {
 }
 
 resource "spotify_playlist" "theFrayBestHits" {
-    name = "The Fray Best Hits"
+    name   = "The Fray Best Hits"
     tracks = slice(data.spotify_search_track.TheFray.tracks[*].id, 0, 10)
 }
