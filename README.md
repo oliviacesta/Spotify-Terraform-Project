@@ -10,3 +10,4 @@ Devops project to create spotify playlists and add songs using terraform. Demons
 ## End result!
 Take a look at the playlists created in my spotify account thanks to this project:
 <img width="879" alt="Screenshot 2024-09-07 at 4 22 42 PM" src="https://github.com/user-attachments/assets/a5912e15-3848-402f-bbbc-a55aade982e5">
+<img width="890" alt="Screenshot 2024-09-07 at 4 23 26 PM" src="https://github.com/user-attachments/assets/9a3c3153-32cb-4daa-b980-de9b5f222e97">
