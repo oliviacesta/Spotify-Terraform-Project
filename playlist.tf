@@ -1,5 +1,5 @@
 resource "spotify_playlist" "study_music" {
-    name = "Study Music"
+    name = "Exam Study Playlist"
     tracks = ["6fxVffaTuwjgEk5h9QyRjy", "2hKdd3qO7cWr2Jo0Bcs0MA", "3Vr3zh0r7ALn8VLqCiRR10",
               "2RiBogNRfulkNf7fVbPOrJ", "0FDzzruyVECATHXKHFs9eJ", "7cA3PnUQDlUyBBwpRozQeo",
               "4U45aEWtQhrm8A5mxPaFZ7", "3vUn7FE3ZaQgJmkhIrIirF", "1fDtoTPDyzkNOfFIRXxsC5",
